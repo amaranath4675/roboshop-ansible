@@ -3,7 +3,7 @@
   connection: local
   vars:
     ami_id: ami-09c813fb71547fc4f
-    sg_id: sg-04a6373d80781814d # replace with your SG ID
+    sg_id: sg-05bc45e2435d47a81 # replace with your SG ID
     zone_id: "Z08394983VCGATLL8SRZA" # replace with your ID
     domain_name: "amaranath.fun"
     # we can pass instances through command line using -e
